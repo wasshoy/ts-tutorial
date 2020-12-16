@@ -2,8 +2,8 @@
 
 ## Handbook
 
-- [ ] [TypeScript for JS Programmers](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html)
-- [ ] [Basic Types](https://www.typescriptlang.org/docs/handbook/basic-types.html)
+- [x] [TypeScript for JS Programmers](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html)
+- [x] [Basic Types](https://www.typescriptlang.org/docs/handbook/basic-types.html)
 - [ ] [Interfaces](https://www.typescriptlang.org/docs/handbook/interfaces.html)
 - [ ] [Functions](https://www.typescriptlang.org/docs/handbook/functions.html)
 - [ ] [Literal Types](https://www.typescriptlang.org/docs/handbook/literal-types.html)
