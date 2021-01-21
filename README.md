@@ -11,3 +11,8 @@
 - [ ] [Classess](https://www.typescriptlang.org/docs/handbook/classes.html)
 - [ ] [Enums](https://www.typescriptlang.org/docs/handbook/enums.html)
 - [ ] [Generics](https://www.typescriptlang.org/docs/handbook/generics.html)
+
+
+## 実行環境
+- 001のみ`Node.js v14.0.0`と`tsc Version 3.9.7`
+- 002以降は`Deno 1.6.0`🦕
